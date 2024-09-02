@@ -7,16 +7,19 @@ Link : https://content-craft-theta.vercel.app/
 
 ## Features
 
+- **Advanced Search Filters**: Use advanced filters to narrow down your content search and find exactly what you need.
+- **History**: Review and manage your past generated content with an easy-to-use history feature.
+- **User Authentication**: Secure user authentication and management using ClerkAuth.
+- **Payment Integration**: Seamlessly integrated with Stripe for payment processing.
 - **Twitter Post Ideas**: Generate engaging and creative ideas for your next tweet.
 - **LinkedIn Post Descriptions**: Create professional and impactful LinkedIn post descriptions.
 - **YouTube Video Descriptions**: Get assistance in drafting compelling YouTube video descriptions.
 - **Instagram & TikTok Hashtags**: Find the most relevant and trending hashtags for your Instagram and TikTok posts.
-- **User Authentication**: Secure user authentication and management using ClerkAuth.
-- **Payment Integration**: Seamlessly integrated with Stripe for payment processing.
 
 ## Tech Stack
 
 - **Next.js**: The powerful React framework for building server-side rendered and statically generated applications.
+- **Nodejs**: A cross-platform, open-source JavaScript runtime environment For Backend
 - **ClerkAuth**: User authentication and management made simple and secure.
 - **NeonDB**: A modern, developer-friendly database for storing user data and content ideas.
 - **GeminiAI**: The AI engine that powers the content generation features of the platform.
