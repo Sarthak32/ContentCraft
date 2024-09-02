@@ -16,6 +16,13 @@ Link : https://content-craft-theta.vercel.app/
 - **YouTube Video Descriptions**: Get assistance in drafting compelling YouTube video descriptions.
 - **Instagram & TikTok Hashtags**: Find the most relevant and trending hashtags for your Instagram and TikTok posts.
 
+## Video Preview : 
+
+
+https://github.com/user-attachments/assets/eb8c5978-8906-4365-9844-d9fb6eb6d237
+
+
+
 ## Tech Stack
 
 - **Next.js**: The powerful React framework for building server-side rendered and statically generated applications.
