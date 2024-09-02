@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/eb8c5978-8906-4365-9844-d9fb6eb6d237
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/ContentCraft.git
+   git clone https://github.com/Sarthak32/ContentCraft.git
    cd ContentCraft
    --setup .env environment
    ```
