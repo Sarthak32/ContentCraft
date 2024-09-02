@@ -1,39 +1,33 @@
+# ContentCraft
 
-![Thumbnail Studio DEV (13)](https://github.com/user-attachments/assets/35e433b0-d660-4c39-96f6-5079fd18c3d4)
+**ContentCraft** is a cutting-edge social media content creation tool designed to help you generate ideas, descriptions, and hashtags for various social media platforms. Whether you're crafting a Twitter post, a LinkedIn update, a YouTube video description, or finding the perfect hashtags for Instagram and TikTok, ContentCraft has got you covered!
+
+## Features
+
+- **Twitter Post Ideas**: Generate engaging and creative ideas for your next tweet.
+- **LinkedIn Post Descriptions**: Create professional and impactful LinkedIn post descriptions.
+- **YouTube Video Descriptions**: Get assistance in drafting compelling YouTube video descriptions.
+- **Instagram & TikTok Hashtags**: Find the most relevant and trending hashtags for your Instagram and TikTok posts.
+- **User Authentication**: Secure user authentication and management using ClerkAuth.
+- **Payment Integration**: Seamlessly integrated with Stripe for payment processing.
+
+## Tech Stack
+
+- **Next.js**: The powerful React framework for building server-side rendered and statically generated applications.
+- **ClerkAuth**: User authentication and management made simple and secure.
+- **NeonDB**: A modern, developer-friendly database for storing user data and content ideas.
+- **GeminiAI**: The AI engine that powers the content generation features of the platform.
+- **Prisma**: A next-generation ORM that simplifies database access and ensures type safety.
+- **Stripe**: Payment processing integration for premium content and features.
 
 
-## Getting Started
+### Installation
 
-First, run the development server:
+1. **Clone the repository**:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# magic-social-ai-access
+   ```bash
+   git clone https://github.com/your-username/ContentCraft.git
+   cd ContentCraft
+   --setup .env environment
+   npm run dev
+   
