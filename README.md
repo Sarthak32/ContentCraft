@@ -32,5 +32,20 @@ Link : https://content-craft-theta.vercel.app/
    git clone https://github.com/your-username/ContentCraft.git
    cd ContentCraft
    --setup .env environment
-   npm run dev
-   
+   ```
+2. **Create .env file and get the following API keys**:
+   ```bash
+   NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+   CLERK_SECRET_KEY=
+   DATABASE_URL=
+   GEMINI_API_KEY=
+   STRIPE_PUB_KEY=
+   STRIPE_SECRET_KEY=
+   STRIPE_WEBHOOK_SECRET= 
+   ```
+3. **RUN the Webapp**:
+   ```bash
+      npm run dev
+   ```
+
+
